@@ -321,6 +321,8 @@ For questions or issues:
 
 ## 🎯 Future Enhancements
 
+# AI-ML-Flowise-Platform
+>>>>>>> 29e9783adb51e690afc3aeef713cbf2ce47756ba
 - [ ] Advanced ML model training interface
 - [ ] Real-time collaboration features
 - [ ] Enhanced data visualization
@@ -329,3 +331,6 @@ For questions or issues:
 - [ ] Advanced RAG features (document chunking strategies)
 - [ ] Integration with more AI providers
 - [ ] Mobile-responsive design improvements
+=======
+# AI-ML-Flowise-Platform
+>>>>>>> 29e9783adb51e690afc3aeef713cbf2ce47756ba
